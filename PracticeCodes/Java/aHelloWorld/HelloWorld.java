@@ -1,4 +1,4 @@
-package aaHelloWorld;
+package aHelloWorld;
 
 public class HelloWorld
 {

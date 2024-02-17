@@ -1,4 +1,4 @@
-package acPractice;
+package cSimpleAddition;
 
 public class Practice2 {
     

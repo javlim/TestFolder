@@ -1,4 +1,4 @@
-package abPractice;
+package bDog;
 
 public class Practice1Main {
 
